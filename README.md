@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @emf-czar
-- 🌱 I’m currently learning R and C
-- 📫 How to reach me email at emerson.cortazar@duke.edu
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: My Family Owns Two Dwarf Ponies
+Hello, my name is Emerson Cortazar. I am a Computer Science major at Duke University.
 
 <!---
 emf-czar/emf-czar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
