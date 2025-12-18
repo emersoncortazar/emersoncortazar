@@ -1,4 +1,4 @@
-Hello, my name is Emerson Cortazar. I am a Computer Science major at Duke University.
+Hello, my name is Emerson Cortazar. I am a ECE major at Duke University.
 
 <!---
 emf-czar/emf-czar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
